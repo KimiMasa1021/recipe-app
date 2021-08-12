@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802717114815",
+    "project_id": "first-app-release",
+    "storage_bucket": "first-app-release.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802717114815:android:4b7703f1fdf1c34dd7810a",
+        "android_client_info": {
+          "package_name": "com.firstApp.tea_select"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802717114815-fnovlfqg0nnd26pa6ucvervj5fl723m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUnjIMS4fJCz0O-bbUC8R_Og98ZEv69EI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802717114815-fnovlfqg0nnd26pa6ucvervj5fl723m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
